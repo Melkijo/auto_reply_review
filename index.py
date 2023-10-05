@@ -6,7 +6,7 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import csv
 import numpy as np
 
-st.title('Auto Reply Chatbot')
+st.title('Auto Reply Review')
 uploaded_file = st.file_uploader("Choose a file")
 dataframe = None;
 
